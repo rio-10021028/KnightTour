@@ -3,8 +3,8 @@
 using namespace std;
 
 // 定数
-const int LENGTH = 5;
-const int BOARD_SIZE = LENGTH * LENGTH;
+const int LENGTH = 5; // 1 辺の長さ
+const int BOARD_SIZE = LENGTH * LENGTH; // 盤面のマス数
 
 bool knightTour(bool* pboard, int record, int field, int* pcurrentCount, int* pmaxCount)
 {
