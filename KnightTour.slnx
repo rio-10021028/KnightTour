@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KnightTour/KnightTour.vcxproj" Id="0c83e843-0c29-408d-a216-998979fd4508" />
+</Solution>
